@@ -48,7 +48,7 @@ var config = {
 
 | Option |  Description | 
 |---|---|
-| `openhabUrl` | The IP or Hostname of your openhab installation.<br><br>**Type:** `string`<br>**Default:** `'http://openhab:8080/'` | 
+| `openhabUrl` | The IP or Hostname with Port of your openhab installation.<br><br>**Type:** `string`<br>**Default:** `'http://openhab:8080/'` | 
 | `ohItems` | You define here the openhab items to display. See below the configuration. <br><br>**Type:** `Array`<br>**Default:** `[]` | 
 | `updateInterval` | Time to refresh the items states in milliseconds. <br><br>**Type:** `Number`<br>**Default:** `10000` (10 seconds)| 
 
