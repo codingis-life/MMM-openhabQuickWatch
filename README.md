@@ -14,7 +14,7 @@ cd ~/MagicMirror/modules
 
 Clone this repository:
 ````
-git clone git@github.com:.....
+git clone https://github.com/steve415/MMM-openhabQuickWatch.git
 ````
 
 Configure the module in your `config.js` file.
