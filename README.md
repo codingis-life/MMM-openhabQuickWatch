@@ -3,7 +3,8 @@ This module retrieves and displays the device status from openhab.
 
 ## Screenshot
 
-coming soon
+![Screenshot](.github/magicMirror_contact.png)
+![Screenshot](.github/magicMirror_temperature.png)
  
 ## Installation
 
