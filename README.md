@@ -17,6 +17,12 @@ Clone this repository:
 git clone https://github.com/steve415/MMM-openhabQuickWatch.git
 ````
 
+Install dependencies:
+````
+npm install
+````
+
+
 Configure the module in your `config.js` file.
 
 ## Using the module
