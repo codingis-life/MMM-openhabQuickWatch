@@ -1,0 +1,21 @@
+.OH-image-icon {
+    filter: invert(1);
+    width: 18px;
+}
+
+.OH-table {
+    display: table;
+    width: 100%;
+}
+
+.OH-table-body {
+    display: table-row-group
+}
+
+.OH-table-row{
+    display: table-row;
+}
+
+.OH-table-cell{
+    display: table-cell;
+}
